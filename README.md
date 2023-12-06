@@ -5,25 +5,27 @@ In this BI dashboard, I am tracking the status of patient waiting time at hospit
 
 Objectives:
 
-1.Track current status of patient waiting list
+a.Track current status of patient waiting list
 
-2.Analyze historic monthly trend of waiting list in Inpatient and Outpatient categories
+b.Analyze historic monthly trend of waiting list in Inpatient and Outpatient categories
 
-3.Detailed specialty level & age profile analysis
+c.Detailed specialty level & age profile analysis
 
 ## Key Steps
 
-1. Data Collection - Acquire data from online resources
+1. Requirements Gathering - Understand business objective and scope
 
-2. Data Transformation - Filter, Sort and Organize dataset using Power Query
+2. Data Collection - Acquire data from online resources
 
-3. Database Modelling - Establish relationship between tables using star schema
+3. Data Transformation - Filter, Sort and Organize dataset using Power Query
 
-4. Creating calculated measures and columns using DAX queries
+4. Data Modelling - Establish relationship between tables using star schema
 
-5. Implement interactivity and navigation between pages
+5. Creating calculated measures and columns using DAX queries
 
-6. Sharing with stakeholders
+6. Implement interactivity and navigation between pages
+
+7. Testing and Sharing with stakeholders
 
 
 ## Screenshots
